@@ -1,0 +1,29 @@
+p{
+    color: rgb(49, 48, 48);
+    text-align: center;
+    font-size: x-large;
+}
+.div1{
+    border: 2px solid rgb(63, 62, 62);
+    display: flex;
+}
+.p1{
+    text-align: justify;
+    padding-right: 150px;
+}
+img{
+    width: 380px;
+    height: 500px;
+}
+.div2 img{
+    height: 30px;
+    width: 30px;
+}
+.div2 a{
+    text-decoration: none;
+}
+button{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+.aaa {
+    text-align: center;
+    
+}
+.bbb{
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    
+    
+}
+.ccc{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    
+}
+    
+    
+
+img{
+    height: 130px;
+   
+}
+.p1{
+    padding-left: 150px;
+    text-align: center;
+    text-align: justify;
+    padding-right: 150px;
+}
+button{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
